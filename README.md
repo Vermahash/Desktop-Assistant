@@ -1,5 +1,5 @@
 # Desktop-Assistant
-Conda Create -n assistant pytohn=3.7
+Conda Create -n assistant python=3.8
 conda env list
 conda activate assistant
 pip -r install Requirnment.txt
